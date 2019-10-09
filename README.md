@@ -8,11 +8,13 @@
 
 ## Início rápido
 
-Inicie o [Pangeo Binder](https://pangeo-binder.readthedocs.io) (Ambiente interativo para o Jupyter Notebook-lab na nuvem), clicando em:
+* Inicie o [Pangeo Binder](https://pangeo-binder.readthedocs.io) (Ambiente interativo para o Jupyter Notebook-lab na nuvem), clicando em:
 
 [![Binder](https://binder.pangeo.io/badge_logo.svg)](https://binder.pangeo.io/v2/gh/fschuch/Python-Transferencia-de-Calor/master/)
 
-Ao final da aula, não esqueça de salvar uma cópia do Notebook com suas anotações pessoais.
+* Espere a aplicação carregar tudo para você, isso pode levar algum tempo;
+* O próximo passo é abrir o arquivo `aula.ipynb`;
+* Ao final da aula, não esqueça de salvar uma cópia do Notebook com suas anotações pessoais.
 
 ## Licença
 
