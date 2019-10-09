@@ -16,3 +16,5 @@ Ao final da aula, não esqueça de salvar uma cópia do Notebook com suas anota�
 ## Licença
 
 Esse projeto é licenciado sob os termos do [MIT license](https://github.com/fschuch/Python-Transferencia-de-Calor/blob/master/LICENSE).
+
+© 2019 Felipe N. Schuch
