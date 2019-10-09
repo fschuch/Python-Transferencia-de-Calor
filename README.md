@@ -8,7 +8,7 @@
 
 ## Início rápido
 
-1. Inicie o [Pangeo Binder](https://pangeo-binder.readthedocs.io) (Ambiente interativo para o Jupyter Notebook-lab na nuvem), clicando em:
+1. Inicie o _Pangeo Binder_ (Ambiente interativo para o Jupyter Notebook-lab na nuvem), clicando em:
 
     [![Binder](https://binder.pangeo.io/badge_logo.svg)](https://binder.pangeo.io/v2/gh/fschuch/Python-Transferencia-de-Calor/master/)
 
@@ -16,7 +16,7 @@
     * O próximo passo é abrir o arquivo `aula.ipynb`;
     * Ao final da aula, não esqueça de salvar uma cópia do Notebook com suas anotações pessoais.
 
-2. Outra opção é o Research Colab, mas uma conta Google é necessária:
+2. Outra opção é o _Research Colab_, mas uma conta Google é necessária:
 
     <a href="https://colab.research.google.com/github/fschuch/Python-Transferencia-de-Calor/blob/master/aula.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
