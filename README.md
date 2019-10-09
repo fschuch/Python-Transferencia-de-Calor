@@ -7,7 +7,7 @@
 
 ## Início rápido
 
-Inicie o [Pangeo Binder](https://pangeo-binder.readthedocs.io) (Ambiente interativo para o Jupyter Notebook-lab na nuvem)
+Inicie o [Pangeo Binder](https://pangeo-binder.readthedocs.io) (Ambiente interativo para o Jupyter Notebook-lab na nuvem), clicando em:
 
 [![Binder](https://binder.pangeo.io/badge_logo.svg)](https://binder.pangeo.io/v2/gh/fschuch/Python-Transferencia-de-Calor/master/)
 
