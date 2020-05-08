@@ -1,10 +1,6 @@
 # Métodos Numéricos Aplicados à Transferência de Calor
 
-> **Felipe Nornberg Schuch**,<br>
-> Laboratório de Simulação de Escoamentos Turbulentos (LaSET),<br>
-> Escola Politécnica, Pontifícia Universidade Católica do Rio Grande do Sul.<br>
-> felipe.schuch@edu.pucrs.br<br>
-> [@aprenda.py](https://www.instagram.com/aprenda.py/ "Instagram")
+-----
 
 ## Início rápido
 
@@ -20,8 +16,16 @@
 
     <a href="https://colab.research.google.com/github/fschuch/Python-Transferencia-de-Calor/blob/master/aula.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
+-----
+
+> **Felipe N. Schuch**,<br>
+> Dr. Eng. Mecânico pela PUCRS. Possui experiência em fluidodinâmica computacional, transferência de calor e massa, computação de alto desempenho, métodos numéricos, educação financeira e outros.<br>
+> [felipeschuch@outlook.com](mailto:felipeschuch@outlook.com "Email") [@fschuch](https://twitter.com/fschuch "Twitter") [Aprenda.py](https://fschuch.github.io/aprenda.py "Blog") [@aprenda.py](https://www.instagram.com/aprenda.py/ "Instagram")<br>
+
+----
+
 ## Licença
 
 Esse projeto é licenciado sob os termos do [MIT license](https://github.com/fschuch/Python-Transferencia-de-Calor/blob/master/LICENSE).
 
-© 2019 Felipe N. Schuch
+© 2020 Felipe N. Schuch
