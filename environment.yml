@@ -1,0 +1,19 @@
+name: transferencia-de-calor
+dependencies:
+  - python = 3.8
+  - scipy >= 1.6.0
+  - numpy >= 1.20.0
+  - matplotlib >= 3.3.0
+  - ipywidgets >= 7.6
+  - sympy >= 1.7.0
+  - jupyterlab >= 3.0.0
+  - plotly==4.14.3
+  - pandas
+  - pip
+  - tqdm
+  - nodejs
+  - pip:
+    - pint
+    - expectexception
+    - ipympl
+    - handcalcs

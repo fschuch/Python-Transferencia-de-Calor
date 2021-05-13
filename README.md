@@ -1,18 +1,38 @@
 # Métodos Numéricos Aplicados à Transferência de Calor
 
-## Início rápido
+## Configurando o Tutorial
 
-1. Inicie o _Pangeo Binder_ (Ambiente interativo para o Jupyter Notebook-lab na nuvem), clicando em:
+Inicie o _Pangeo Binder_ (Ambiente interativo para o Jupyter Notebook-lab na nuvem), clicando em:
 
     [![Binder](https://binder.pangeo.io/badge_logo.svg)](https://binder.pangeo.io/v2/gh/fschuch/Python-Transferencia-de-Calor/master/)
 
     * Espere a aplicação carregar tudo para você, isso pode levar algum tempo;
     * O próximo passo é abrir o arquivo `aula.ipynb`;
+    * No menu superior, procure por `Run > Run all cells`;
     * Ao final da aula, não esqueça de salvar uma cópia do Notebook com suas anotações pessoais.
 
-2. Outra opção é o _Research Colab_, mas uma conta Google é necessária:
+Se você prefere instalar o tutorial localmente, siga os seguintes passos:
 
-    <a href="https://colab.research.google.com/github/fschuch/Python-Transferencia-de-Calor/blob/master/aula.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+    1. Clone o repositório:
+
+    ```
+    git clone https://github.com/fschuch/Python-Transferencia-de-Calor
+    ```
+
+    1. Instale o ambiente. O repositório inclui um arquivo `environment.yaml` que contém uma lista de todos os pacotes necessários para executar esse tutorial.
+    Para instalá-los usando conda, use o comando:
+
+    ```
+    conda env create -f environment.yml
+    conda activate transferencia-de-calor
+    ```
+
+    1. Inicie uma seção Jupyter:
+
+    ```
+    jupyter lab
+    ```
+
 
 > **Felipe N. Schuch**,<br>
 > Dr. Eng. Mecânico pela PUCRS. Possui experiência em fluidodinâmica computacional, transferência de calor e massa, computação de alto desempenho, métodos numéricos, educação financeira e outros.<br>
