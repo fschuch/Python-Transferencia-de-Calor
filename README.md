@@ -4,7 +4,7 @@
 
 Inicie o _Pangeo Binder_ (Ambiente interativo para o Jupyter Notebook-lab na nuvem), clicando em:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fschuch/Python-Transferencia-de-Calo/master?urlpath=lab)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fschuch/Python-Transferencia-de-Calor/master?urlpath=lab)
 
 * Espere a aplicação carregar tudo para você, isso pode levar algum tempo;
 * O próximo passo é abrir o arquivo `aula.ipynb`;
