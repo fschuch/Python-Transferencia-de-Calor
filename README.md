@@ -4,34 +4,34 @@
 
 Inicie o _Pangeo Binder_ (Ambiente interativo para o Jupyter Notebook-lab na nuvem), clicando em:
 
-    [![Binder](https://binder.pangeo.io/badge_logo.svg)](https://binder.pangeo.io/v2/gh/fschuch/Python-Transferencia-de-Calor/master/)
+[![Binder](https://binder.pangeo.io/badge_logo.svg)](https://binder.pangeo.io/v2/gh/fschuch/Python-Transferencia-de-Calor/master/)
 
-    * Espere a aplicação carregar tudo para você, isso pode levar algum tempo;
-    * O próximo passo é abrir o arquivo `aula.ipynb`;
-    * No menu superior, procure por `Run > Run all cells`;
-    * Ao final da aula, não esqueça de salvar uma cópia do Notebook com suas anotações pessoais.
+* Espere a aplicação carregar tudo para você, isso pode levar algum tempo;
+* O próximo passo é abrir o arquivo `aula.ipynb`;
+* No menu superior, procure por `Run > Run all cells`;
+* Ao final da aula, não esqueça de salvar uma cópia do Notebook com suas anotações pessoais.
 
 Se você prefere instalar o tutorial localmente, siga os seguintes passos:
 
-    1. Clone o repositório:
+1. Clone o repositório:
 
-    ```
-    git clone https://github.com/fschuch/Python-Transferencia-de-Calor
-    ```
+```
+git clone https://github.com/fschuch/Python-Transferencia-de-Calor
+```
 
-    1. Instale o ambiente. O repositório inclui um arquivo `environment.yaml` que contém uma lista de todos os pacotes necessários para executar esse tutorial.
-    Para instalá-los usando conda, use o comando:
+1. Instale o ambiente. O repositório inclui um arquivo `environment.yaml` que contém uma lista de todos os pacotes necessários para executar esse tutorial.
+Para instalá-los usando conda, use o comando:
 
-    ```
-    conda env create -f environment.yml
-    conda activate transferencia-de-calor
-    ```
+```
+conda env create -f environment.yml
+conda activate transferencia-de-calor
+```
 
-    1. Inicie uma seção Jupyter:
+1. Inicie uma seção Jupyter:
 
-    ```
-    jupyter lab
-    ```
+```
+jupyter lab
+```
 
 
 > **Felipe N. Schuch**,<br>
