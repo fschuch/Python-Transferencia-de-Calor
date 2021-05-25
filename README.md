@@ -1,5 +1,11 @@
 # Métodos Numéricos Aplicados à Transferência de Calor
 
+O conteúdo está dividido em três Jupyter Notebooks, encontrados no diretório [Aulas](./Aulas/), são eles:
+
+1. [Introdução](./Aulas/01-Introducao.ipynb): Revisão sobre conceitos de programação em Python, além da demonstração (não exaustiva) das principais bibliotecas para o trabalho com ciência, técnologia e educação;
+2. [Condução térmica](./Aulas/02-Exemplos-Conducao-de-calor.ipynb): Exemplos resolvidos de problemas 1D e 2D, estacionários e transientes envolvendo condução de calor;
+3. [Transferência de calor por convecção](./Aulas/03-Exemplos-Conveccao.ipynb): Exemplos resolvidos de problemas 1D e 2D, incluindo o escoamento em uma cavidade com transferência de calor.
+
 ## Configurando o Tutorial
 
 Inicie o _Pangeo Binder_ (Ambiente interativo para o Jupyter Notebook-lab na nuvem), clicando em:
