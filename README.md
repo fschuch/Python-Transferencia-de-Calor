@@ -13,7 +13,7 @@ Inicie o _Pangeo Binder_ (Ambiente interativo para o Jupyter Notebook-lab na nuv
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fschuch/Python-Transferencia-de-Calor/master?urlpath=lab)
 
 * Espere a aplicação carregar tudo para você, isso pode levar algum tempo;
-* O próximo passo é abrir o arquivo `aula.ipynb`;
+* O próximo passo é abrir o arquivo diretórios `Aulas` e escolher um dos notebooks;
 * No menu superior, procure por `Run > Run all cells`;
 * Ao final da aula, não esqueça de salvar uma cópia do Notebook com suas anotações pessoais.
 
